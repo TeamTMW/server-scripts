@@ -9,7 +9,7 @@ This i a very work in progress for Minecraft server admins (Especially for modde
 
 # How to use
 
-##Linux
+## Linux
 - chmod u+x tmw-toolbox.sh
 - ./tmw-toolbox.sh
 
